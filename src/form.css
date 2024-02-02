@@ -1,0 +1,42 @@
+.box{
+    display: flex;
+    align-items: center;
+   justify-content: center;
+}
+
+
+.form{
+    border :1px solid black;
+    margin: 10px 80px;
+    align-items: center;
+   justify-content: center;
+    justify-content:center;
+    width: 600px;
+    /* display: flex;
+    flex-direction: column; */
+}
+
+.form label{
+    display:inline-block;
+    text-align: center;
+    justify-content:space-around;
+    margin-left: 100px;
+   
+   
+}
+
+
+
+  form>button
+{
+  
+      background-color: rgb(243, 190, 93);
+      color: #efefef;
+      border: none;
+      text-align: center;
+      padding: 5px 10px;
+      border-radius: 25px;
+      width: 50%;
+      margin-left: 20%;
+      margin-bottom: 10px;
+}
